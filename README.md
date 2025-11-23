@@ -1,6 +1,6 @@
 # 📊 E-Commerce Sales
 
-![Dashboard Preview]([E-Commerce-Sales/blob/main/Dashboard.png])
+![Dashboard Preview]([AliMohamed805/E-Commerce-Sales/blob/main/Dashboard.png])
 ---
 ## 🚀 Project Workflow
 
