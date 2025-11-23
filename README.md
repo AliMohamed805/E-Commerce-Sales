@@ -1,4 +1,6 @@
 # 📊 E-Commerce Sales
+
+![Dashboard Preview]([assets/dashboard_preview.png](https://github.com/AliMohamed805/E-Commerce-Sales/blob/main/Dashboard.png))
 ---
 ## 🚀 Project Workflow
 
